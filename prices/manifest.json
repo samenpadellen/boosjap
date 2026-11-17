@@ -1,0 +1,35 @@
+{
+ "generatedAt": "2026-11-17T11:55:04.250Z",
+ "stores": {
+  "ah": {
+   "fetchedAt": "2026-11-17T11:55:04.170Z",
+   "source": "AH-app",
+   "products": 239,
+   "offers": 7
+  },
+  "jumbo": {
+   "fetchedAt": "2026-11-17T11:55:04.177Z",
+   "source": "jumbo.com",
+   "products": 228,
+   "offers": 22
+  },
+  "dirk": {
+   "fetchedAt": "2026-11-17T11:55:04.231Z",
+   "source": "Checkjebon + PrijsProfeet",
+   "products": 200,
+   "offers": 15
+  },
+  "aldi": {
+   "fetchedAt": "2026-11-17T11:55:04.235Z",
+   "source": "PrijsProfeet",
+   "products": 11,
+   "offers": 7
+  },
+  "lidl": {
+   "fetchedAt": "2026-11-17T11:55:04.250Z",
+   "source": "Checkjebon + PrijsProfeet",
+   "products": 161,
+   "offers": 0
+  }
+ }
+}
